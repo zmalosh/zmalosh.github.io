@@ -29,4 +29,4 @@ The following are considerations for this analysis:
   + Do culturally similar countries count less?
     + Will former USSR countries transact more with Russia due to cultural similarities?
     + Will countries speaking the same language transact more?
-+ Impact of academies - large teams with academies will have more players with skill levels not consistent with the top-flight team. How do those lower-level transactions count toward the parent club?
++ Impact of Academies/B-Teams - large teams with academies will have more players with skill levels not consistent with the top-flight team. How do those lower-level transactions count toward the parent club?
