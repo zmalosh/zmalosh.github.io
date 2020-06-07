@@ -30,3 +30,5 @@ The following are considerations for this analysis:
     + Will former USSR countries transact more with Russia due to cultural similarities?
     + Will countries speaking the same language transact more?
 + Impact of Academies/B-Teams - large teams with academies will have more players with skill levels not consistent with the top-flight team. How do those lower-level transactions count toward the parent club?
++ Impact of playing time - players with more playing time/appearances may better represent league strength. The skills of highly-used players better represent the quality of the league they are playing in.
++ Impact of age - players may tend to be closer to home at the start and end of their careers
