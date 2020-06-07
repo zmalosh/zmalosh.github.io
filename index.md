@@ -24,8 +24,7 @@ The following are considerations for this analysis. Inclusion of all considerati
   + Would 2019 Fulham be EPL, Championship, or some fraction of both?
   + Are promotion and relegation treated the same? If going down, a team may be more likely to sell off players when compared to the buying practices of teams being promoted.
 + Geographic considerations - teams tend to transact with leagues near them
-  + How do same-country transfers count?
-  + How do same-league transfers count?
+  + How do same-country transactions count? Same-league transactions?
   + Are there distance considerations? It is easier to scout other teams near you, especially on a limited budget.
   + Do culturally similar countries count less?
     + Will former USSR countries transact more with Russia due to cultural similarities?
@@ -36,5 +35,6 @@ The following are considerations for this analysis. Inclusion of all considerati
 + Impact of playing time - players with more playing time/appearances may better represent league strength. The skills of highly-used players better represent the quality of the league they are playing in.
 + Impact of age
   + Players may tend to be closer to home at the start and end of their careers
-  + Some leagues target sunsetting players
+  + Some leagues may target sunsetting players (Süper Lig, MLS)
+  + FIFA regulations regarding targeting of young talent may impact targeted distance
 
