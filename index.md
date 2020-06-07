@@ -7,7 +7,11 @@
 + [NCAA FB - 2018 FCS Clustering (Excel)](https://malosh.z14.web.core.windows.net/Fcs2018.xlsx) - Team Clustering by Division
 
 ## Next Project Idea - League Strength by Transfer Network
-Determine the strength of a league based on the leagues that its teams perform transfers with. In general, leagues would be expected to perform transfers with similar-level leagues. By assuming that the "Big 5" leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1) will be at or near the top of the rankings, the rest of the leagues should fall into place based on the strength between leagues. The following are considerations for this analysis:
+Determine the strength of a league based on the leagues that its teams perform transfers with. In general, leagues would be expected to perform transfers with similar-level leagues. By assuming that the "Big 5" leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1) will be at or near the top of the rankings, the rest of the leagues should fall into place based on the strength between leagues.
+
+The goal would be to create a single numeric value to allow for comparison between leagues and, ultimately, create a league power ranking.
+
+The following are considerations for this analysis:
 + Transfers vs Loans vs Free Transfers - How do each contribute to the strength of the relationship between leagues?
 + Designated competition for teams transitioning between leagues 
   + Would 2019 Fulham be EPL, Championship, or some fraction of both?
