@@ -20,6 +20,7 @@ The goal would be to create a single numeric value to allow for comparison betwe
 The following are considerations for this analysis. Inclusion of all considerations may not be practical in the final analysis.
 
 + Transfers vs Loans vs Free Transfers - How do each contribute to the strength of the relationship between leagues?
+  + Is loan-to-transfer a fourth transfer type?
 + Designated competition for teams transitioning between leagues 
   + Would 2019 Fulham be EPL, Championship, or some fraction of both?
   + Are promotion and relegation treated the same? If going down, a team may be more likely to sell off players when compared to the buying practices of teams being promoted.
