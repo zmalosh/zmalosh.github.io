@@ -33,6 +33,7 @@ The following are considerations for this analysis. Inclusion of all considerati
     + ex: Athletic Bilbao generally won't be dealing outside of Basque Country
 + Impact of Academies/B-Teams - large teams with academies will have more players with skill levels not consistent with the top-flight team. How do those lower-level transactions count toward the parent club?
 + Impact of playing time - players with more playing time/appearances may better represent league strength. The skills of highly-used players better represent the quality of the league they are playing in.
+  + Are playing times while on loan helpful to determine difference in level?
 + Impact of age
   + Players may tend to be closer to home at the start and end of their careers
   + Some leagues may target sunsetting players (Süper Lig, MLS)
