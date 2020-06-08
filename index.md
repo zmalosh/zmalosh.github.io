@@ -22,23 +22,24 @@ The following are considerations for this analysis. Inclusion of all considerati
 + Transfers vs Loans vs Free Transfers - How do each contribute to the strength of the relationship between leagues?
   + Is loan-to-transfer another transfer type?
   + Is sign-and-loan another transfer type?
-  + How frequent is a player loaned back to his pre-transfer team? (Giroud from Tours to Montpellier)
-+ Designated competition for teams transitioning between leagues 
+  + How frequently is a player loaned back to his pre-transfer team? (Giroud from Tours to Montpellier)
++ What is the league for teams transitioning between leagues?
   + Would 2019 Fulham be EPL, Championship, or some fraction of both?
   + Are promotion and relegation treated the same? If going down, a team may be more likely to sell off players when compared to the buying practices of teams being promoted.
-+ Geographic considerations - teams tend to transact with leagues near them
-  + How do same-country transactions count? Same-league transactions?
-  + Are there distance considerations? It is easier to scout other teams near you, especially on a limited budget.
++ Geographic considerations - teams may tend to transact with leagues near them
+  + How do same-country transactions count? What about same-league transactions?
+  + Are there distance considerations? It is assumed to be easier to scout other teams near you, especially on a limited budget.
   + Do culturally similar countries count less?
     + Will former USSR countries transact more with Russia due to cultural similarities?
     + Will countries speaking the same language transact more?
+    + Do these similarities reduce the significance of transactions or have no impact?
   + Are individual teams inclined to make international/distanced transactions?
     + ex: Athletic Bilbao generally won't be dealing outside of Basque Country
-+ Academies/B-Teams - large teams with academies will have more players with skill levels not consistent with the top-flight team. How do those lower-level transactions count toward the parent club?
-+ Playing Time - players with more playing time/appearances may better represent league strength. The skills of highly-used players better represent the quality of the league they are playing in.
++ Academies/B-Teams - large teams with academies/B-teams will have more players with skill levels not consistent with the top-flight team. How do those lower-level transactions count when viewed from the parent organization?
++ Playing Time - players with more playing time/appearances are likely to better represent league strength. The skills of highly-used players better represent the quality of the league they are playing in.
   + Are playing times while on loan helpful to determine difference in level?
+  + Does an increase in playing time show the new team is at a lower level?
 + Age Considerations
-  + Players may tend to be closer to home at the start and end of their careers
-  + Some leagues may target sunsetting players (Süper Lig, MLS)
+  + Players may tend to play closer to home at the start and end of their careers
+  + Some leagues may target sunsetting players (Süper Lig, MLS, Chinese Super League)
   + FIFA regulations regarding targeting of young talent may impact targeted distance
-
