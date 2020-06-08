@@ -29,7 +29,7 @@ The following are considerations for this analysis. Inclusion of all considerati
 + Geographic considerations - teams may tend to transact with leagues near them
   + How do same-country transactions count? What about same-league transactions?
   + Are there distance considerations? It is assumed to be easier to scout other teams near you, especially on a limited budget.
-  + Do culturally similar countries count less?
+  + Do transactions between culturally similar countries count less?
     + Will former USSR countries transact more with Russia due to cultural similarities?
     + Will countries speaking the same language transact more?
     + Do these similarities reduce the significance of transactions or have no impact?
